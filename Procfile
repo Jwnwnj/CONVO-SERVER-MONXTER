@@ -1,1 +1,1 @@
-web: python MONXTER.py
+web: python main.py
